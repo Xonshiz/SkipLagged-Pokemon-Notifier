@@ -1,6 +1,9 @@
 # SkipLagged-Pokemon-Notifier
 Another little poorly written python script which looks up on http://skiplagged.com/pokemon and notifies you when it find the pokemon you're looking for!
 
+#Windows Binary
+Grab the [Windows Binary Here](https://github.com/Xonshiz/SkipLagged-Pokemon-Notifier/raw/master/Pokemon%20Notifier.rar)!
+
 #How To Use
 Using this script is easy AF!
 
